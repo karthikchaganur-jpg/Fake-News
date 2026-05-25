@@ -1,0 +1,1474 @@
+[07:23:44] =======================================================
+[07:23:44] Data Collection � past 30 days
+[07:24:13] =======================================================
+[07:24:13] Data Collection — past 30 days
+[07:24:13] Window: 2026-03-30 → 2026-04-29
+[07:24:13] =======================================================
+[07:24:13] RSS [REAL] reuters_world ...
+[07:24:14]   +0 new articles
+[07:24:15] RSS [REAL] reuters_tech ...
+[07:24:15]   +0 new articles
+[07:24:16] RSS [REAL] reuters_science ...
+[07:24:16]   +0 new articles
+[07:24:17] RSS [REAL] bbc_world ...
+[07:24:18]   +33 new articles
+[07:24:19] RSS [REAL] bbc_tech ...
+[07:24:20]   +17 new articles
+[07:24:21] RSS [REAL] bbc_health ...
+[07:24:23]   +37 new articles
+[07:24:25] RSS [REAL] guardian_world ...
+[07:24:25]   +45 new articles
+[07:24:27] RSS [REAL] guardian_tech ...
+[07:24:28]   +18 new articles
+[07:24:29] RSS [REAL] guardian_science ...
+[07:24:30]   +27 new articles
+[07:24:31] RSS [REAL] hindu_national ...
+[07:24:32]   +60 new articles
+[07:24:33] RSS [REAL] hindu_science ...
+[07:24:34]   +60 new articles
+[07:24:35] RSS [REAL] ie_india ...
+[07:24:39]   +200 new articles
+[07:24:40] RSS [REAL] ndtv_top ...
+[07:24:42]   +20 new articles
+[07:24:44] RSS [REAL] livemint ...
+[07:24:44]   +35 new articles
+[07:24:46] RSS [REAL] npr_news ...
+[07:24:48]   +10 new articles
+[07:24:49] RSS [REAL] pbs_world ...
+[07:24:50]   +20 new articles
+[07:24:51] RSS [REAL] nasa ...
+[07:24:52]   +10 new articles
+[07:24:53] RSS [REAL] who ...
+[07:24:53]   +10 new articles
+[07:24:54] RSS [REAL] ap_topnews ...
+[07:24:55]   +0 new articles
+[07:24:56] RSS [REAL] aljazeera ...
+[07:24:57]   +25 new articles
+[07:24:58] RSS [REAL] toi_top ...
+[07:24:58]   +46 new articles
+[07:25:00] RSS [FAKE] theonion ...
+[07:25:00]   +12 new articles
+[07:25:01] RSS [FAKE] babylonbee ...
+[07:25:02]   +0 new articles
+[07:25:03] RSS [FAKE] waterfordwhispers ...
+[07:25:06]   +0 new articles
+[07:25:07] RSS [FAKE] nationalreport ...
+[07:25:08]   +0 new articles
+[07:25:09] RSS [FAKE] worldnewsdailyreport ...
+[07:25:10]   +0 new articles
+[07:25:11] RSS [FAKE] empirenews ...
+[07:25:18]   +0 new articles
+[07:25:19] Wayback [REAL] wb_reuters_world ...
+[07:25:23]   +0 archived articles
+[07:25:23] Wayback [REAL] wb_bbc_world ...
+[07:25:43]   +156 archived articles
+[07:25:43] Wayback [REAL] wb_guardian ...
+[07:25:44]   CDX error: Expecting value: line 1 column 1 (char 0)
+[07:25:44] Wayback [FAKE] wb_theonion ...
+[07:25:56]   +12 archived articles
+[07:25:56] Wayback [FAKE] wb_babylonbee ...
+[07:26:29]   +49 archived articles
+[07:26:29] NewsAPI key not provided — skipping
+[07:26:29] NewsData key not provided — skipping
+[07:26:29] -------------------------------------------------------
+[07:26:29] New articles — RSS:685  Wayback:217  NewsAPI:0  NewsData:0
+[07:26:29] Total new: 902
+[07:26:29] Exported 902 rows → news_dataset\news_articles.csv
+[07:26:29] Done. Run step2_preprocess.py next.
+[10:55:52] Saved [REAL] � Government secretly adding chemicals to drinking water
+[10:58:57] =======================================================
+[10:58:57] Data Collection — past 30 days
+[10:58:57] Window: 2026-03-30 → 2026-04-29
+[10:58:57] =======================================================
+[10:58:57] RSS [REAL] reuters_world ...
+[10:58:58]   +0 new articles
+[10:58:59] RSS [REAL] reuters_tech ...
+[10:58:59]   +0 new articles
+[10:59:00] RSS [REAL] reuters_science ...
+[10:59:00]   +0 new articles
+[10:59:01] RSS [REAL] bbc_world ...
+[10:59:02]   +6 new articles
+[10:59:03] RSS [REAL] bbc_tech ...
+[10:59:04]   +0 new articles
+[10:59:05] RSS [REAL] bbc_health ...
+[10:59:06]   +0 new articles
+[10:59:07] RSS [REAL] guardian_world ...
+[10:59:12]   +9 new articles
+[10:59:13] RSS [REAL] guardian_tech ...
+[10:59:14]   +0 new articles
+[10:59:15] RSS [REAL] guardian_science ...
+[10:59:15]   +1 new articles
+[10:59:16] RSS [REAL] hindu_national ...
+[10:59:17]   +22 new articles
+[10:59:18] RSS [REAL] hindu_science ...
+[10:59:20]   +4 new articles
+[10:59:21] RSS [REAL] ie_india ...
+[11:13:42] Saved [FAKE] � SHOCKING: Scientists ADMIT 5G towers are making people sick 
+[11:14:35] Saved [REAL] � India's GDP growth projected at 6.5 percent for 2025 accordi
+[15:28:49] =======================================================
+[15:28:49] FAKE NEWS DATA COLLECTOR
+[15:28:49] Collecting past 365 days of news
+[15:28:49] Window: 2025-04-29 to 2026-04-29
+[15:28:49] Mode: RSS + Wayback (full 1-year backfill)
+[15:28:49] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[15:28:49] =======================================================
+[15:28:49] =======================================================
+[15:28:49] STEP: Live RSS feeds
+[15:28:49] =======================================================
+[15:28:49]   [REAL] reuters_world ...
+[15:28:49]     +0 new articles
+[15:28:50]   [REAL] reuters_tech ...
+[15:28:50]     +0 new articles
+[15:28:52]   [REAL] reuters_science ...
+[15:28:52]     +0 new articles
+[15:28:53]   [REAL] reuters_health ...
+[15:28:53]     +0 new articles
+[15:28:55]   [REAL] reuters_politics ...
+[15:28:55]     +0 new articles
+[15:28:56]   [REAL] bbc_world ...
+[15:28:57]     +9 new articles
+[15:28:59]   [REAL] bbc_tech ...
+[15:28:59]     +3 new articles
+[15:29:01]   [REAL] bbc_health ...
+[15:29:02]     +10 new articles
+[15:29:03]   [REAL] bbc_science ...
+[15:29:04]     +36 new articles
+[15:29:06]   [REAL] guardian_world ...
+[15:29:06]     +17 new articles
+[15:29:08]   [REAL] guardian_tech ...
+[15:29:08]     +5 new articles
+[15:29:10]   [REAL] guardian_science ...
+[15:29:10]     +1 new articles
+[15:29:12]   [REAL] guardian_politics ...
+[15:29:12]     +18 new articles
+[15:29:14]   [REAL] hindu_national ...
+[15:29:14]     +54 new articles
+[15:29:16]   [REAL] hindu_science ...
+[15:29:16]     +0 new articles
+[15:29:18]   [REAL] hindu_international ...
+[15:29:19]     +55 new articles
+[15:29:20]   [REAL] ie_india ...
+[15:43:11]     +0 new articles
+[15:43:12]   [REAL] ndtv_top ...
+[15:43:12]     +0 new articles
+[15:43:14]   [REAL] livemint ...
+[15:43:14]     +0 new articles
+[15:43:15]   [REAL] toi_top ...
+[15:43:15]     +0 new articles
+[16:46:39]   [REAL] npr_news ...
+[16:46:39]     +0 new articles
+[16:46:40]   [REAL] pbs_world ...
+[16:46:40]     +0 new articles
+[16:46:42]   [REAL] nasa ...
+[16:46:42]     +0 new articles
+[16:46:43]   [REAL] who ...
+[16:46:43]     +0 new articles
+[16:46:45]   [REAL] ap_topnews ...
+[16:46:45]     +0 new articles
+[16:46:46]   [REAL] aljazeera ...
+[16:46:46]     +0 new articles
+[16:46:48]   [REAL] abc_news ...
+[16:46:48]     +0 new articles
+[16:46:49]   [REAL] cbs_news ...
+[16:46:49]     +0 new articles
+[16:46:51]   [REAL] science_daily ...
+[16:46:51]     +0 new articles
+[16:46:52]   [FAKE] theonion ...
+[16:46:52]     +0 new articles
+[16:46:54]   [FAKE] babylonbee ...
+[16:46:54]     +0 new articles
+[16:46:55]   [FAKE] waterfordwhispers ...
+[16:46:55]     +0 new articles
+[16:46:57]   [FAKE] nationalreport ...
+[16:46:57]     +0 new articles
+[16:46:58]   [FAKE] worldnewsdailyreport ...
+[16:46:58]     +0 new articles
+[16:47:00]   [FAKE] empirenews ...
+[16:47:00]     +0 new articles
+[16:47:01]   [FAKE] thedailymash ...
+[16:47:01]     +0 new articles
+[16:47:03]   [FAKE] newsthump ...
+[16:47:03]     +0 new articles
+[16:47:04]   [FAKE] thespoof ...
+[16:47:04]     +0 new articles
+[16:47:06] RSS done: 208 new articles
+
+[16:47:06] =======================================================
+[16:47:06] STEP: Wayback Machine — 1 year backfill
+[16:47:06]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[16:47:06]   This runs ONCE. Use --skip-wayback on future runs.
+[16:47:06] =======================================================
+[16:47:06] 
+  [REAL] wb_reuters_world
+[16:47:06]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Ffeeds.reuters.com%2Freuters%2FworldNews&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE7B55130>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:08] 
+  [REAL] wb_reuters_tech
+[16:47:08]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Ffeeds.reuters.com%2Freuters%2FtechnologyNews&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE7B54F50>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:10] 
+  [REAL] wb_reuters_health
+[16:47:10]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Ffeeds.reuters.com%2Freuters%2FhealthNews&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86D3C80>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:12] 
+  [REAL] wb_bbc_world
+[16:47:12]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=http%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fworld%2Frss.xml&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE8745880>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:14] 
+  [REAL] wb_bbc_health
+[16:47:14]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=http%3A%2F%2Ffeeds.bbci.co.uk%2Fnews%2Fhealth%2Frss.xml&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE8747F50>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:16] 
+  [REAL] wb_guardian_world
+[16:47:16]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Frss&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE8745B80>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:18] 
+  [REAL] wb_guardian_tech
+[16:47:18]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Frss&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86F8800>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:20] 
+  [REAL] wb_hindu
+[16:47:20]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.thehindu.com%2Fnews%2Fnational%2F%3Fservice%3Drss&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE8747860>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:22] 
+  [REAL] wb_ndtv
+[16:47:22]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Ffeeds.feedburner.com%2Fndtvnews-top-stories&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE8744A70>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:24] 
+  [REAL] wb_npr
+[16:47:24]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Ffeeds.npr.org%2F1001%2Frss.xml&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86D3D10>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:26] 
+  [REAL] wb_aljazeera
+[16:47:26]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.aljazeera.com%2Fxml%2Frss%2Fall.xml&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE7B55970>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:28] 
+  [FAKE] wb_theonion
+[16:47:28]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.theonion.com%2Frss&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86F80E0>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:30] 
+  [FAKE] wb_babylonbee
+[16:47:30]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fbabylonbee.com%2Ffeed&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86FB9B0>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:32] 
+  [FAKE] wb_waterford
+[16:47:32]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwaterfordwhispersnews.com%2Ffeed%2F&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE7B554F0>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:34] 
+  [FAKE] wb_thedailymash
+[16:47:34]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.thedailymash.co.uk%2Ffeed&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86D0DD0>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:36] 
+  [FAKE] wb_newsthump
+[16:47:36]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fnewsthump.com%2Ffeed%2F&output=json&fl=timestamp%2Coriginal&from=20250429&to=20260429&limit=60&collapse=timestamp%3A6 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001BAE86FA660>: Failed to resolve 'web.archive.org' ([Errno 11001] getaddrinfo failed)"))
+[16:47:38] 
+Wayback done: 0 new articles
+
+[16:47:38] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[16:47:38] NewsData: no key — skipping (free key at newsdata.io)
+
+[16:47:38] -------------------------------------------------------
+[16:47:38] RSS:208  Wayback:0  NewsAPI:0  NewsData:0
+[16:47:38] Total new this run: 208
+[16:47:38] Exported 1,155 rows to news_dataset\news_articles.csv
+[16:47:38] Done. Run step2_preprocess.py next.
+[18:47:50] Saved [FAKE] � Narendra modi has resigned from his position as PM!!
+[18:48:15] =======================================================
+[18:48:15] FAKE NEWS DATA COLLECTOR
+[18:48:15] Collecting past 365 days of news
+[18:48:15] Window: 2025-04-30 to 2026-04-30
+[18:48:15] Mode: RSS + Wayback (full 1-year backfill)
+[18:48:15] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[18:48:15] =======================================================
+[18:48:15] =======================================================
+[18:48:15] STEP: Live RSS feeds
+[18:48:15] =======================================================
+[18:48:15]   [REAL] reuters_world ...
+[18:48:15]     +0 new articles
+[18:48:17]   [REAL] reuters_tech ...
+[18:48:17]     +0 new articles
+[18:48:18]   [REAL] reuters_science ...
+[18:48:18]     +0 new articles
+[18:48:20]   [REAL] reuters_health ...
+[18:48:20]     +0 new articles
+[18:48:22]   [REAL] reuters_politics ...
+[18:48:22]     +0 new articles
+[18:48:23]   [REAL] bbc_world ...
+[18:48:25]     +28 new articles
+[18:48:26]   [REAL] bbc_tech ...
+[18:48:27]     +4 new articles
+[18:48:29]   [REAL] bbc_health ...
+[18:48:30]     +7 new articles
+[18:48:32]   [REAL] bbc_science ...
+[18:48:33]     +6 new articles
+[18:48:34]   [REAL] guardian_world ...
+[18:48:35]     +36 new articles
+[18:48:37]   [REAL] guardian_tech ...
+[18:48:38]     +5 new articles
+[18:48:39]   [REAL] guardian_science ...
+[18:48:40]     +10 new articles
+[18:48:42]   [REAL] guardian_politics ...
+[18:48:42]     +14 new articles
+[18:48:44]   [REAL] hindu_national ...
+[18:48:45]     +59 new articles
+[18:48:46]   [REAL] hindu_science ...
+[18:48:47]     +7 new articles
+[18:48:48]   [REAL] hindu_international ...
+[18:48:49]     +32 new articles
+[18:48:50]   [REAL] ie_india ...
+[18:48:54]     +200 new articles
+[18:48:55]   [REAL] ndtv_top ...
+[18:48:57]     +20 new articles
+[18:48:59]   [REAL] livemint ...
+[18:48:59]     +35 new articles
+[18:49:01]   [REAL] toi_top ...
+[18:49:02]     +43 new articles
+[18:49:03]   [REAL] npr_news ...
+[18:49:04]     +10 new articles
+[18:49:05]   [REAL] pbs_world ...
+[18:49:06]     +6 new articles
+[18:49:08]   [REAL] nasa ...
+[18:49:09]     +10 new articles
+[18:49:10]   [REAL] who ...
+[18:49:11]     +15 new articles
+[18:49:13]   [REAL] ap_topnews ...
+[18:49:13]     +0 new articles
+[18:49:15]   [REAL] aljazeera ...
+[18:49:15]     +25 new articles
+[18:49:17]   [REAL] abc_news ...
+[18:49:20]     +25 new articles
+[18:49:21]   [REAL] cbs_news ...
+[18:49:28]     +30 new articles
+[18:49:30]   [REAL] science_daily ...
+[18:49:32]     +60 new articles
+[18:49:34]   [FAKE] theonion ...
+[18:49:34]     +12 new articles
+[18:49:36]   [FAKE] babylonbee ...
+[18:49:36]     +0 new articles
+[18:49:38]   [FAKE] waterfordwhispers ...
+[18:49:41]     +0 new articles
+[18:49:42]   [FAKE] nationalreport ...
+[18:49:43]     +0 new articles
+[18:49:44]   [FAKE] worldnewsdailyreport ...
+[18:49:47]     +0 new articles
+[18:49:48]   [FAKE] empirenews ...
+[18:49:50]     +0 new articles
+[18:49:52]   [FAKE] thedailymash ...
+[18:49:54]     +20 new articles
+[18:49:56]   [FAKE] newsthump ...
+[18:49:58]     +10 new articles
+[18:49:59]   [FAKE] thespoof ...
+[18:50:00]     +0 new articles
+[18:50:02] RSS done: 729 new articles
+
+[18:50:02] =======================================================
+[18:50:02] STEP: Wayback Machine — 1 year backfill
+[18:50:02]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[18:50:02]   This runs ONCE. Use --skip-wayback on future runs.
+[18:50:02] =======================================================
+[18:50:02] 
+  [REAL] wb_reuters_world
+[18:50:21]     0 snapshots found — fetching...
+[18:50:21]     Done: +0 articles from wb_reuters_world
+[18:50:23] 
+  [REAL] wb_reuters_tech
+[18:50:30]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:50:32] 
+  [REAL] wb_reuters_health
+[18:50:38]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:50:40] 
+  [REAL] wb_bbc_world
+[18:51:01]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:51:03] 
+  [REAL] wb_bbc_health
+[18:51:04]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:06] 
+  [REAL] wb_guardian_world
+[18:51:08]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:10] 
+  [REAL] wb_guardian_tech
+[18:51:15]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:17] 
+  [REAL] wb_hindu
+[18:51:23]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:25] 
+  [REAL] wb_ndtv
+[18:51:26]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:28] 
+  [REAL] wb_npr
+[18:51:48]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:51:50] 
+  [REAL] wb_aljazeera
+[18:51:51]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:53] 
+  [FAKE] wb_theonion
+[18:51:55]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:51:57] 
+  [FAKE] wb_babylonbee
+[18:51:58]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:52:00] 
+  [FAKE] wb_waterford
+[18:52:01]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:52:03] 
+  [FAKE] wb_thedailymash
+[18:52:23]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:52:25] 
+  [FAKE] wb_newsthump
+[18:52:26]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:52:28] 
+Wayback done: 0 new articles
+
+[18:52:28] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[18:52:28] NewsData: no key — skipping (free key at newsdata.io)
+
+[18:52:28] -------------------------------------------------------
+[18:52:28] RSS:729  Wayback:0  NewsAPI:0  NewsData:0
+[18:52:28] Total new this run: 729
+[18:52:28] Exported 1,885 rows to news_dataset\news_articles.csv
+[18:52:28] Done. Run step2_preprocess.py next.
+[18:55:56] Saved [FAKE] � Shokcing News: PM Narendra Modi of India has had enough and 
+[18:10:34] =======================================================
+[18:10:34] FAKE NEWS DATA COLLECTOR
+[18:10:34] Collecting past 365 days of news
+[18:10:34] Window: 2025-05-01 to 2026-05-01
+[18:10:34] Mode: RSS + Wayback (full 1-year backfill)
+[18:10:34] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[18:10:34] =======================================================
+[18:10:34] =======================================================
+[18:10:34] STEP: Built-in dataset (no internet needed)
+[18:10:34] =======================================================
+[18:10:37]   Built-in real  : +122 articles
+[18:10:37]   Built-in fake  : +123 articles
+[18:10:37]   Built-in total : 245 new articles
+
+[18:10:37] =======================================================
+[18:10:37] STEP: Live RSS feeds
+[18:10:37] =======================================================
+[18:10:37]   [REAL] reuters_world ...
+[18:10:37]     +0 new articles
+[18:10:39]   [REAL] reuters_tech ...
+[18:10:39]     +0 new articles
+[18:10:40]   [REAL] reuters_science ...
+[18:10:40]     +0 new articles
+[18:10:42]   [REAL] reuters_health ...
+[18:10:42]     +0 new articles
+[18:10:43]   [REAL] reuters_politics ...
+[18:10:43]     +0 new articles
+[18:10:45]   [REAL] bbc_world ...
+[18:10:45]     +26 new articles
+[18:10:47]   [REAL] bbc_tech ...
+[18:10:48]     +5 new articles
+[18:10:50]   [REAL] bbc_health ...
+[18:10:51]     +6 new articles
+[18:10:53]   [REAL] bbc_science ...
+[18:10:53]     +2 new articles
+[18:10:55]   [REAL] guardian_world ...
+[18:10:56]     +31 new articles
+[18:10:57]   [REAL] guardian_tech ...
+[18:10:58]     +7 new articles
+[18:11:00]   [REAL] guardian_science ...
+[18:11:00]     +5 new articles
+[18:11:02]   [REAL] guardian_politics ...
+[18:11:02]     +16 new articles
+[18:11:04]   [REAL] hindu_national ...
+[18:11:04]     +59 new articles
+[18:11:06]   [REAL] hindu_science ...
+[18:11:06]     +4 new articles
+[18:11:08]   [REAL] hindu_international ...
+[18:11:08]     +32 new articles
+[18:11:10]   [REAL] ie_india ...
+[18:11:11]     +200 new articles
+[18:11:13]   [REAL] ndtv_top ...
+[18:11:15]     +20 new articles
+[18:11:16]   [REAL] livemint ...
+[18:11:17]     +35 new articles
+[18:11:18]   [REAL] toi_top ...
+[18:11:19]     +40 new articles
+[18:11:20]   [REAL] npr_news ...
+[18:11:21]     +10 new articles
+[18:11:23]   [REAL] pbs_world ...
+[18:11:24]     +7 new articles
+[18:11:25]   [REAL] nasa ...
+[18:11:26]     +9 new articles
+[18:11:28]   [REAL] who ...
+[18:11:28]     +0 new articles
+[18:11:30]   [REAL] ap_topnews ...
+[18:11:32]     +0 new articles
+[18:11:33]   [REAL] aljazeera ...
+[18:11:34]     +25 new articles
+[18:11:35]   [REAL] abc_news ...
+[18:11:38]     +20 new articles
+[18:11:39]   [REAL] cbs_news ...
+[18:11:41]     +30 new articles
+[18:11:42]   [REAL] science_daily ...
+[18:11:45]     +7 new articles
+[18:11:46]   [FAKE] theonion ...
+[18:11:48]     +5 new articles
+[18:11:50]   [FAKE] babylonbee ...
+[18:11:52]     +0 new articles
+[18:11:53]   [FAKE] waterfordwhispers ...
+[18:12:02]     +0 new articles
+[18:12:04]   [FAKE] nationalreport ...
+[18:12:05]     +0 new articles
+[18:12:06]   [FAKE] worldnewsdailyreport ...
+[18:12:08]     +0 new articles
+[18:12:09]   [FAKE] empirenews ...
+[18:12:12]     +0 new articles
+[18:12:13]   [FAKE] thedailymash ...
+[18:12:16]     +7 new articles
+[18:12:18]   [FAKE] newsthump ...
+[18:12:19]     +2 new articles
+[18:12:21]   [FAKE] thespoof ...
+[18:12:23]     +0 new articles
+[18:12:24] RSS done: 610 new articles
+
+[18:12:24] =======================================================
+[18:12:24] STEP: Wayback Machine — 1 year backfill
+[18:12:24]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[18:12:24]   This runs ONCE. Use --skip-wayback on future runs.
+[18:12:24] =======================================================
+[18:12:24] 
+  [REAL] wb_reuters_world
+[18:12:33]     0 snapshots found — fetching...
+[18:12:33]     Done: +0 articles from wb_reuters_world
+[18:12:35] 
+  [REAL] wb_reuters_tech
+[18:12:53]     0 snapshots found — fetching...
+[18:12:53]     Done: +0 articles from wb_reuters_tech
+[18:12:55] 
+  [REAL] wb_reuters_health
+[18:13:15]     0 snapshots found — fetching...
+[18:13:15]     Done: +0 articles from wb_reuters_health
+[18:13:17] 
+  [REAL] wb_bbc_world
+[18:13:21]     12 snapshots found — fetching...
+[18:14:00]     [10/12] 303 articles so far
+[18:14:09]     Done: +326 articles from wb_bbc_world
+[18:14:11] 
+  [REAL] wb_bbc_health
+[18:14:43]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:14:45] 
+  [REAL] wb_guardian_world
+[18:14:47]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:14:49] 
+  [REAL] wb_guardian_tech
+[18:14:49]     CDX error: Expecting value: line 1 column 1 (char 0)
+[18:14:51] 
+  [REAL] wb_hindu
+[18:15:12]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:15:14] 
+  [REAL] wb_ndtv
+[18:15:31]     9 snapshots found — fetching...
+[18:15:59]     Done: +180 articles from wb_ndtv
+[18:16:01] 
+  [REAL] wb_npr
+[18:16:02]     12 snapshots found — fetching...
+[18:16:41]     [10/12] 100 articles so far
+[18:16:48]     Done: +120 articles from wb_npr
+[18:16:50] 
+  [REAL] wb_aljazeera
+[18:17:10]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:17:12] 
+  [FAKE] wb_theonion
+[18:17:20]     3 snapshots found — fetching...
+[18:17:51]     Done: +24 articles from wb_theonion
+[18:17:53] 
+  [FAKE] wb_babylonbee
+[18:18:13]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[18:18:15] 
+  [FAKE] wb_waterford
+[18:18:30]     5 snapshots found — fetching...
+[18:19:06]     Done: +0 articles from wb_waterford
+[18:19:08] 
+  [FAKE] wb_thedailymash
+[18:19:10]     7 snapshots found — fetching...
+[18:20:02]     Done: +60 articles from wb_thedailymash
+[18:20:04] 
+  [FAKE] wb_newsthump
+[18:20:09]     5 snapshots found — fetching...
+[18:20:35]     Done: +50 articles from wb_newsthump
+[18:20:37] 
+Wayback done: 760 new articles
+
+[18:20:37] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[18:20:37] NewsData: no key — skipping (free key at newsdata.io)
+
+[18:20:37] -------------------------------------------------------
+[18:20:37] Built-in:245  RSS:610  Wayback:760  NewsAPI:0  NewsData:0
+[18:20:37] Total new this run: 1,615
+[18:20:37] Exported 3,501 rows to news_dataset\news_articles.csv
+[18:20:37] Done. Run step2_preprocess.py next.
+[23:09:48] Saved [FAKE] � SHOCKING: Government hides alien technology!!
+[23:17:30] =======================================================
+[23:17:30] FAKE NEWS DATA COLLECTOR
+[23:17:30] Collecting past 365 days of news
+[23:17:30] Window: 2025-05-01 to 2026-05-01
+[23:17:30] Mode: RSS + Wayback (full 1-year backfill)
+[23:17:30] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[23:17:30] =======================================================
+[23:17:30] =======================================================
+[23:17:30] STEP: Built-in dataset (no internet needed)
+[23:17:30] =======================================================
+[23:17:30]   Built-in real  : +0 articles
+[23:17:30]   Built-in fake  : +0 articles
+[23:17:30]   Built-in total : 0 new articles
+
+[23:17:30] =======================================================
+[23:17:30] STEP: Live RSS feeds
+[23:17:30] =======================================================
+[23:17:30]   [REAL] reuters_world ...
+[23:17:30]     +0 new articles
+[23:17:31]   [REAL] reuters_tech ...
+[23:17:32]     +0 new articles
+[23:17:33]   [REAL] reuters_science ...
+[23:17:33]     +0 new articles
+[23:17:35]   [REAL] reuters_health ...
+[23:17:35]     +0 new articles
+[23:17:36]   [REAL] reuters_politics ...
+[23:17:36]     +0 new articles
+[23:17:38]   [REAL] bbc_world ...
+[23:17:39]     +6 new articles
+[23:17:41]   [REAL] bbc_tech ...
+[23:17:41]     +1 new articles
+[23:17:43]   [REAL] bbc_health ...
+[23:17:44]     +1 new articles
+[23:17:46]   [REAL] bbc_science ...
+[23:17:47]     +3 new articles
+[23:17:48]   [REAL] guardian_world ...
+[23:17:49]     +17 new articles
+[23:17:51]   [REAL] guardian_tech ...
+[23:17:51]     +2 new articles
+[23:17:53]   [REAL] guardian_science ...
+[23:17:53]     +0 new articles
+[23:17:55]   [REAL] guardian_politics ...
+[23:17:56]     +6 new articles
+[23:17:57]   [REAL] hindu_national ...
+[23:17:58]     +57 new articles
+[23:18:00]   [REAL] hindu_science ...
+[23:18:00]     +0 new articles
+[23:18:01]   [REAL] hindu_international ...
+[23:18:02]     +10 new articles
+[23:18:03]   [REAL] ie_india ...
+[23:18:05]     +83 new articles
+[23:18:06]   [REAL] ndtv_top ...
+[23:18:09]     +19 new articles
+[23:18:10]   [REAL] livemint ...
+[23:18:11]     +25 new articles
+[23:18:12]   [REAL] toi_top ...
+[23:18:13]     +29 new articles
+[23:18:14]   [REAL] npr_news ...
+[23:18:15]     +4 new articles
+[23:18:16]   [REAL] pbs_world ...
+[23:18:17]     +4 new articles
+[23:18:19]   [REAL] nasa ...
+[23:18:20]     +5 new articles
+[23:18:22]   [REAL] who ...
+[23:18:22]     +0 new articles
+[23:18:24]   [REAL] ap_topnews ...
+[23:18:25]     +0 new articles
+[23:18:27]   [REAL] aljazeera ...
+[23:18:27]     +14 new articles
+[23:18:29]   [REAL] abc_news ...
+[23:18:32]     +7 new articles
+[23:18:34]   [REAL] cbs_news ...
+[23:18:35]     +27 new articles
+[23:18:37]   [REAL] science_daily ...
+[23:18:38]     +5 new articles
+[23:18:40]   [FAKE] theonion ...
+[23:18:41]     +6 new articles
+[23:18:42]   [FAKE] babylonbee ...
+[23:18:46]     +0 new articles
+[23:18:47]   [FAKE] waterfordwhispers ...
+[23:18:51]     +0 new articles
+[23:18:53]   [FAKE] nationalreport ...
+[23:18:53]     +0 new articles
+[23:18:55]   [FAKE] worldnewsdailyreport ...
+[23:18:58]     +0 new articles
+[23:18:59]   [FAKE] empirenews ...
+[23:19:01]     +0 new articles
+[23:19:03]   [FAKE] thedailymash ...
+[23:19:05]     +2 new articles
+[23:19:06]   [FAKE] newsthump ...
+[23:19:09]     +1 new articles
+[23:19:10]   [FAKE] thespoof ...
+[23:19:13]     +0 new articles
+[23:19:14] RSS done: 334 new articles
+
+[23:19:14] =======================================================
+[23:19:14] STEP: Wayback Machine — 1 year backfill
+[23:19:14]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[23:19:14]   This runs ONCE. Use --skip-wayback on future runs.
+[23:19:14] =======================================================
+[23:19:14] 
+  [REAL] wb_reuters_world
+[23:19:20]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:19:22] 
+  [REAL] wb_reuters_tech
+[23:19:42]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:19:44] 
+  [REAL] wb_reuters_health
+[23:20:05]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:20:07] 
+  [REAL] wb_bbc_world
+[23:20:12]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:20:14] 
+  [REAL] wb_bbc_health
+[23:20:59] =======================================================
+[23:20:59] FAKE NEWS DATA COLLECTOR
+[23:20:59] Collecting past 365 days of news
+[23:20:59] Window: 2025-05-01 to 2026-05-01
+[23:20:59] Mode: RSS + Wayback (full 1-year backfill)
+[23:20:59] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[23:20:59] =======================================================
+[23:20:59] =======================================================
+[23:20:59] STEP: Built-in dataset (no internet needed)
+[23:20:59] =======================================================
+[23:20:59]   Built-in real  : +0 articles
+[23:20:59]   Built-in fake  : +0 articles
+[23:20:59]   Built-in total : 0 new articles
+
+[23:20:59] =======================================================
+[23:20:59] STEP: Live RSS feeds
+[23:20:59] =======================================================
+[23:20:59]   [REAL] reuters_world ...
+[23:20:59]     +0 new articles
+[23:21:00]   [REAL] reuters_tech ...
+[23:21:00]     +0 new articles
+[23:21:02]   [REAL] reuters_science ...
+[23:21:02]     +0 new articles
+[23:21:03]   [REAL] reuters_health ...
+[23:21:04]     +0 new articles
+[23:21:05]   [REAL] reuters_politics ...
+[23:21:05]     +0 new articles
+[23:21:07]   [REAL] bbc_world ...
+[23:21:07]     +0 new articles
+[23:21:09]   [REAL] bbc_tech ...
+[23:21:10]     +0 new articles
+[23:21:11]   [REAL] bbc_health ...
+[23:21:12]     +0 new articles
+[23:21:13]   [REAL] bbc_science ...
+[23:21:14]     +0 new articles
+[23:21:16]   [REAL] guardian_world ...
+[23:21:16]     +0 new articles
+[23:21:18]   [REAL] guardian_tech ...
+[23:21:18]     +0 new articles
+[23:21:20]   [REAL] guardian_science ...
+[23:21:20]     +0 new articles
+[23:21:22]   [REAL] guardian_politics ...
+[23:21:22]     +0 new articles
+[23:21:24]   [REAL] hindu_national ...
+[23:21:24]     +0 new articles
+[23:21:26]   [REAL] hindu_science ...
+[23:21:26]     +0 new articles
+[23:21:27]   [REAL] hindu_international ...
+[23:21:28]     +0 new articles
+[23:21:29]   [REAL] ie_india ...
+[23:21:30]     +0 new articles
+[23:21:31]   [REAL] ndtv_top ...
+[23:21:33]     +0 new articles
+[23:21:35]   [REAL] livemint ...
+[23:21:35]     +0 new articles
+[23:21:36]   [REAL] toi_top ...
+[23:21:37]     +0 new articles
+[23:21:38]   [REAL] npr_news ...
+[23:21:38]     +0 new articles
+[23:21:40]   [REAL] pbs_world ...
+[23:21:41]     +0 new articles
+[23:21:42]   [REAL] nasa ...
+[23:21:43]     +0 new articles
+[23:21:45]   [REAL] who ...
+[23:21:45]     +0 new articles
+[23:21:46]   [REAL] ap_topnews ...
+[23:21:47]     +0 new articles
+[23:21:49]   [REAL] aljazeera ...
+[23:21:49]     +0 new articles
+[23:21:51]   [REAL] abc_news ...
+[23:21:53]     +0 new articles
+[23:21:55]   [REAL] cbs_news ...
+[23:21:56]     +2 new articles
+[23:21:57]   [REAL] science_daily ...
+[23:22:04]     +0 new articles
+[23:22:05]   [FAKE] theonion ...
+[23:22:06]     +1 new articles
+[23:22:07]   [FAKE] babylonbee ...
+[23:22:09]     +0 new articles
+[23:22:11]   [FAKE] waterfordwhispers ...
+[23:22:17]     +0 new articles
+[23:22:18]   [FAKE] nationalreport ...
+[23:22:18]     +0 new articles
+[23:22:20]   [FAKE] worldnewsdailyreport ...
+[23:22:21]     +0 new articles
+[23:22:23]   [FAKE] empirenews ...
+[23:22:25]     +0 new articles
+[23:22:26]   [FAKE] thedailymash ...
+[23:22:32]     +0 new articles
+[23:22:33]   [FAKE] newsthump ...
+[23:22:35]     +0 new articles
+[23:22:36]   [FAKE] thespoof ...
+[23:22:37]     +0 new articles
+[23:22:39] RSS done: 3 new articles
+
+[23:22:39] =======================================================
+[23:22:39] STEP: Wayback Machine — 1 year backfill
+[23:22:39]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[23:22:39]   This runs ONCE. Use --skip-wayback on future runs.
+[23:22:39] =======================================================
+[23:22:39] 
+  [REAL] wb_reuters_world
+[23:22:44]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:22:46] 
+  [REAL] wb_reuters_tech
+[23:22:58]     0 snapshots found — fetching...
+[23:22:58]     Done: +0 articles from wb_reuters_tech
+[23:23:00] 
+  [REAL] wb_reuters_health
+[23:23:06]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:23:08] 
+  [REAL] wb_bbc_world
+[23:23:27]     12 snapshots found — fetching...
+[23:24:08]     [10/12] 29 articles so far
+[23:24:36]     Done: +29 articles from wb_bbc_world
+[23:24:38] 
+  [REAL] wb_bbc_health
+[23:24:44]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:24:46] 
+  [REAL] wb_guardian_world
+[23:24:54]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:24:56] 
+  [REAL] wb_guardian_tech
+[23:25:02]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:25:04] 
+  [REAL] wb_hindu
+[23:25:09]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:25:11] 
+  [REAL] wb_ndtv
+[23:25:17]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:25:19] 
+  [REAL] wb_npr
+[23:25:39]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:25:41] 
+  [REAL] wb_aljazeera
+[23:25:47]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:25:49] 
+  [FAKE] wb_theonion
+[23:26:08]     3 snapshots found — fetching...
+[23:26:26]     Done: +0 articles from wb_theonion
+[23:26:28] 
+  [FAKE] wb_babylonbee
+[23:26:33]     CDX error: Expecting value: line 1 column 1 (char 0)
+[23:26:35] 
+  [FAKE] wb_waterford
+[23:26:56]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:26:58] 
+  [FAKE] wb_thedailymash
+[23:27:18]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:27:20] 
+  [FAKE] wb_newsthump
+[23:27:40]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[23:27:42] 
+Wayback done: 29 new articles
+
+[23:27:42] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[23:27:42] NewsData: no key — skipping (free key at newsdata.io)
+
+[23:27:42] -------------------------------------------------------
+[23:27:42] Built-in:0  RSS:3  Wayback:29  NewsAPI:0  NewsData:0
+[23:27:42] Total new this run: 32
+[23:27:42] Exported 3,868 rows to news_dataset\news_articles.csv
+[23:27:42] Done. Run step2_preprocess.py next.
+[10:18:23] =======================================================
+[10:18:23] FAKE NEWS DATA COLLECTOR
+[10:18:23] Collecting past 365 days of news
+[10:18:23] Window: 2025-05-05 to 2026-05-05
+[10:18:23] Mode: RSS + Wayback (full 1-year backfill)
+[10:18:23] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[10:18:23] =======================================================
+[10:18:23] =======================================================
+[10:18:23] STEP: Built-in dataset (no internet needed)
+[10:18:23] =======================================================
+[10:18:23]   Built-in real  : +0 articles
+[10:18:23]   Built-in fake  : +0 articles
+[10:18:23]   Built-in total : 0 new articles
+
+[10:18:23] =======================================================
+[10:18:23] STEP: Live RSS feeds
+[10:18:23] =======================================================
+[10:18:23]   [REAL] reuters_world ...
+[10:18:24]     +0 new articles
+[10:18:26]   [REAL] reuters_tech ...
+[10:18:26]     +0 new articles
+[10:18:28]   [REAL] reuters_science ...
+[10:18:28]     +0 new articles
+[10:18:29]   [REAL] reuters_health ...
+[10:18:29]     +0 new articles
+[10:18:31]   [REAL] reuters_politics ...
+[10:18:31]     +0 new articles
+[10:18:32]   [REAL] bbc_world ...
+[10:18:34]     +32 new articles
+[10:18:35]   [REAL] bbc_tech ...
+[10:18:36]     +4 new articles
+[10:18:37]   [REAL] bbc_health ...
+[10:18:38]     +5 new articles
+[10:18:40]   [REAL] bbc_science ...
+[10:18:41]     +8 new articles
+[10:18:42]   [REAL] guardian_world ...
+[10:18:43]     +38 new articles
+[10:18:45]   [REAL] guardian_tech ...
+[10:18:46]     +11 new articles
+[10:18:48]   [REAL] guardian_science ...
+[10:18:49]     +9 new articles
+[10:18:50]   [REAL] guardian_politics ...
+[10:18:51]     +14 new articles
+[10:18:53]   [REAL] hindu_national ...
+[10:18:54]     +60 new articles
+[10:18:56]   [REAL] hindu_science ...
+[10:18:56]     +9 new articles
+[10:18:58]   [REAL] hindu_international ...
+[10:18:59]     +59 new articles
+[10:19:00]   [REAL] ie_india ...
+[10:19:03]     +200 new articles
+[10:19:05]   [REAL] ndtv_top ...
+[10:19:07]     +20 new articles
+[10:19:08]   [REAL] livemint ...
+[10:19:09]     +35 new articles
+[10:19:11]   [REAL] toi_top ...
+[10:19:12]     +44 new articles
+[10:19:13]   [REAL] npr_news ...
+[10:19:13]     +10 new articles
+[10:19:15]   [REAL] pbs_world ...
+[10:19:16]     +20 new articles
+[10:19:18]   [REAL] nasa ...
+[10:19:20]     +10 new articles
+[10:19:21]   [REAL] who ...
+[10:19:22]     +2 new articles
+[10:19:23]   [REAL] ap_topnews ...
+[10:19:26]     +0 new articles
+[10:19:28]   [REAL] aljazeera ...
+[10:19:28]     +25 new articles
+[10:19:30]   [REAL] abc_news ...
+[10:19:34]     +24 new articles
+[10:19:36]   [REAL] cbs_news ...
+[10:19:39]     +30 new articles
+[10:19:41]   [REAL] science_daily ...
+[10:19:42]     +31 new articles
+[10:19:44]   [FAKE] theonion ...
+[10:19:47]     +11 new articles
+[10:19:49]   [FAKE] babylonbee ...
+[10:19:52]     +0 new articles
+[10:19:54]   [FAKE] waterfordwhispers ...
+[10:20:02]     +0 new articles
+[10:20:04]   [FAKE] nationalreport ...
+[10:20:07]     +0 new articles
+[10:20:09]   [FAKE] worldnewsdailyreport ...
+[10:20:21]     +0 new articles
+[10:20:23]   [FAKE] empirenews ...
+[10:20:29]     +0 new articles
+[10:20:31]   [FAKE] thedailymash ...
+[10:20:35]     +0 new articles
+[10:20:36]   [FAKE] newsthump ...
+[10:20:48]     +5 new articles
+[10:20:50]   [FAKE] thespoof ...
+[10:20:57]     +0 new articles
+[10:20:59] RSS done: 716 new articles
+
+[10:20:59] =======================================================
+[10:20:59] STEP: Wayback Machine — 1 year backfill
+[10:20:59]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[10:20:59]   This runs ONCE. Use --skip-wayback on future runs.
+[10:20:59] =======================================================
+[10:20:59] 
+  [REAL] wb_reuters_world
+[10:21:17]     0 snapshots found — fetching...
+[10:21:17]     Done: +0 articles from wb_reuters_world
+[10:21:19] 
+  [REAL] wb_reuters_tech
+[10:21:31]     0 snapshots found — fetching...
+[10:21:31]     Done: +0 articles from wb_reuters_tech
+[10:21:33] 
+  [REAL] wb_reuters_health
+[10:21:38]     0 snapshots found — fetching...
+[10:21:38]     Done: +0 articles from wb_reuters_health
+[10:21:40] 
+  [REAL] wb_bbc_world
+[10:22:00]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:22:02] 
+  [REAL] wb_bbc_health
+[10:22:22]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:22:24] 
+  [REAL] wb_guardian_world
+[10:22:30]     CDX error: Expecting value: line 1 column 1 (char 0)
+[10:22:32] 
+  [REAL] wb_guardian_tech
+[10:22:40]     CDX error: Expecting value: line 1 column 1 (char 0)
+[10:22:42] 
+  [REAL] wb_hindu
+[10:22:54]     0 snapshots found — fetching...
+[10:22:54]     Done: +0 articles from wb_hindu
+[10:22:56] 
+  [REAL] wb_ndtv
+[10:23:16]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:23:18] 
+  [REAL] wb_npr
+[10:23:24]     13 snapshots found — fetching...
+[10:23:52]     [10/13] 0 articles so far
+[10:24:30]     Done: +10 articles from wb_npr
+[10:24:32] 
+  [REAL] wb_aljazeera
+[10:24:53]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:24:55] 
+  [FAKE] wb_theonion
+[10:25:15]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:25:17] 
+  [FAKE] wb_babylonbee
+[10:25:37]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:25:39] 
+  [FAKE] wb_waterford
+[10:26:00]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:26:02] 
+  [FAKE] wb_thedailymash
+[10:26:22]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:26:24] 
+  [FAKE] wb_newsthump
+[10:26:44]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:26:46] 
+Wayback done: 10 new articles
+
+[10:26:46] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[10:26:46] NewsData: no key — skipping (free key at newsdata.io)
+
+[10:26:46] -------------------------------------------------------
+[10:26:46] Built-in:0  RSS:716  Wayback:10  NewsAPI:0  NewsData:0
+[10:26:46] Total new this run: 726
+[10:26:47] Exported 4,594 rows to news_dataset\news_articles.csv
+[10:26:47] Done. Run step2_preprocess.py next.
+[10:27:14] =======================================================
+[10:27:14] FAKE NEWS DATA COLLECTOR
+[10:27:14] Collecting past 365 days of news
+[10:27:14] Window: 2025-05-05 to 2026-05-05
+[10:27:14] Mode: RSS + Wayback (full 1-year backfill)
+[10:27:14] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[10:27:14] =======================================================
+[10:27:14] =======================================================
+[10:27:14] STEP: Built-in dataset (no internet needed)
+[10:27:14] =======================================================
+[10:27:14]   Built-in real  : +0 articles
+[10:27:14]   Built-in fake  : +0 articles
+[10:27:14]   Built-in total : 0 new articles
+
+[10:27:14] =======================================================
+[10:27:14] STEP: Live RSS feeds
+[10:27:14] =======================================================
+[10:27:14]   [REAL] reuters_world ...
+[10:27:15]     +0 new articles
+[10:27:16]   [REAL] reuters_tech ...
+[10:27:16]     +0 new articles
+[10:27:18]   [REAL] reuters_science ...
+[10:27:18]     +0 new articles
+[10:27:19]   [REAL] reuters_health ...
+[10:27:19]     +0 new articles
+[10:27:21]   [REAL] reuters_politics ...
+[10:27:21]     +0 new articles
+[10:27:22]   [REAL] bbc_world ...
+[10:27:23]     +0 new articles
+[10:27:24]   [REAL] bbc_tech ...
+[10:27:25]     +0 new articles
+[11:08:28] Saved [FAKE] � SHOCKING: Government is secretly putting mind control chemic
+[11:49:55] Saved [REAL] � India successfully lands Chandrayaan-3 near lunar south pole
+[15:13:16] =======================================================
+[15:13:16] FAKE NEWS DATA COLLECTOR
+[15:13:16] Collecting past 365 days of news
+[15:13:16] Window: 2025-05-05 to 2026-05-05
+[15:13:16] Mode: RSS + Wayback (full 1-year backfill)
+[15:13:16] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[15:13:16] =======================================================
+[15:13:16] =======================================================
+[15:13:16] STEP: Built-in dataset (no internet needed)
+[15:13:16] =======================================================
+[15:13:16]   WARNING: builtin_dataset.py not found — skipping
+[15:13:16]   Make sure builtin_dataset.py is in the same folder as step1_collect.py
+[15:13:16] =======================================================
+[15:13:16] STEP: Live RSS feeds
+[15:13:16] =======================================================
+[15:13:16]   [REAL] reuters_world ...
+[15:13:16]     +0 new articles
+[15:13:18]   [REAL] reuters_tech ...
+[15:13:18]     +0 new articles
+[15:13:19]   [REAL] reuters_science ...
+[15:13:19]     +0 new articles
+[15:13:21]   [REAL] reuters_health ...
+[15:13:21]     +0 new articles
+[15:13:22]   [REAL] reuters_politics ...
+[15:13:22]     +0 new articles
+[15:13:24]   [REAL] bbc_world ...
+[15:13:25]     +6 new articles
+[15:13:26]   [REAL] bbc_tech ...
+[15:13:27]     +0 new articles
+[15:13:28]   [REAL] bbc_health ...
+[15:13:29]     +1 new articles
+[15:13:30]   [REAL] bbc_science ...
+[15:13:31]     +2 new articles
+[15:13:32]   [REAL] guardian_world ...
+[15:13:33]     +16 new articles
+[15:13:34]   [REAL] guardian_tech ...
+[15:13:35]     +4 new articles
+[15:13:36]   [REAL] guardian_science ...
+[15:13:37]     +2 new articles
+[15:13:38]   [REAL] guardian_politics ...
+[15:13:39]     +5 new articles
+[15:13:40]   [REAL] hindu_national ...
+[15:13:41]     +50 new articles
+[15:13:42]   [REAL] hindu_science ...
+[15:13:43]     +0 new articles
+[15:13:44]   [REAL] hindu_international ...
+[15:13:44]     +11 new articles
+[15:13:46]   [REAL] ie_india ...
+[15:13:48]     +86 new articles
+[15:13:49]   [REAL] ndtv_top ...
+[15:13:51]     +19 new articles
+[15:13:53]   [REAL] livemint ...
+[15:13:53]     +16 new articles
+[15:13:55]   [REAL] toi_top ...
+[15:13:55]     +26 new articles
+[15:13:57]   [REAL] npr_news ...
+[15:13:57]     +6 new articles
+[15:13:59]   [REAL] pbs_world ...
+[15:13:59]     +0 new articles
+[15:14:01]   [REAL] nasa ...
+[15:15:49] =======================================================
+[15:15:49] FAKE NEWS DATA COLLECTOR
+[15:15:49] Collecting past 365 days of news
+[15:15:49] Window: 2025-05-05 to 2026-05-05
+[15:15:49] Mode: Kaggle + RSS + Wayback (full 1-year backfill)
+[15:15:49] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[15:15:49] =======================================================
+[15:15:49] =======================================================
+[15:15:49] STEP: Kaggle Fake & Real News Dataset
+[15:15:49]   Loading up to 500 real + 500 fake articles
+[15:15:49] =======================================================
+[15:15:53]   [REAL] kaggle_real: +500 articles  (skipped 0 empty rows)
+[15:15:55]   [FAKE] kaggle_fake: +500 articles  (skipped 0 empty rows)
+[15:15:55]   Kaggle total: 1000 new articles
+
+[15:15:55] =======================================================
+[15:15:55] STEP: Live RSS feeds
+[15:15:55] =======================================================
+[15:15:55]   [REAL] reuters_world ...
+[15:15:55]     +0 new articles
+[15:15:56]   [REAL] reuters_tech ...
+[15:15:56]     +0 new articles
+[15:15:58]   [REAL] reuters_science ...
+[15:15:58]     +0 new articles
+[15:15:59]   [REAL] reuters_health ...
+[15:15:59]     +0 new articles
+[15:16:01]   [REAL] reuters_politics ...
+[15:16:01]     +0 new articles
+[15:16:02]   [REAL] bbc_world ...
+[15:16:03]     +0 new articles
+[15:16:05]   [REAL] bbc_tech ...
+[15:16:05]     +0 new articles
+[15:16:07]   [REAL] bbc_health ...
+[15:16:07]     +0 new articles
+[15:16:09]   [REAL] bbc_science ...
+[15:16:09]     +0 new articles
+[15:16:11]   [REAL] guardian_world ...
+[15:16:11]     +1 new articles
+[15:16:13]   [REAL] guardian_tech ...
+[15:16:14]     +0 new articles
+[15:16:15]   [REAL] guardian_science ...
+[15:16:15]     +0 new articles
+[15:16:17]   [REAL] guardian_politics ...
+[15:16:17]     +0 new articles
+[15:16:19]   [REAL] hindu_national ...
+[15:16:19]     +0 new articles
+[15:16:20]   [REAL] hindu_science ...
+[15:16:21]     +0 new articles
+[15:16:22]   [REAL] hindu_international ...
+[15:16:22]     +0 new articles
+[15:16:24]   [REAL] ie_india ...
+[15:16:24]     +3 new articles
+[15:16:26]   [REAL] ndtv_top ...
+[15:16:28]     +0 new articles
+[15:16:29]   [REAL] livemint ...
+[15:16:29]     +0 new articles
+[15:16:31]   [REAL] toi_top ...
+[15:16:31]     +6 new articles
+[15:16:33]   [REAL] npr_news ...
+[15:16:33]     +0 new articles
+[15:16:35]   [REAL] pbs_world ...
+[15:16:36]     +0 new articles
+[15:16:37]   [REAL] nasa ...
+[15:16:39]     +0 new articles
+[15:16:41]   [REAL] who ...
+[15:16:41]     +0 new articles
+[15:16:43]   [REAL] ap_topnews ...
+[15:16:46]     +0 new articles
+[15:16:47]   [REAL] aljazeera ...
+[15:16:47]     +19 new articles
+[15:16:49]   [REAL] abc_news ...
+[15:16:55]     +4 new articles
+[15:16:56]   [REAL] cbs_news ...
+[15:16:57]     +4 new articles
+[15:16:58]   [REAL] science_daily ...
+[15:17:00]     +0 new articles
+[15:17:01]   [FAKE] theonion ...
+[15:17:05]     +0 new articles
+[15:17:07]   [FAKE] babylonbee ...
+[15:17:10]     +0 new articles
+[15:17:12]   [FAKE] waterfordwhispers ...
+[15:17:15]     +0 new articles
+[15:17:17]   [FAKE] nationalreport ...
+[15:17:28]     +0 new articles
+[15:17:29]   [FAKE] worldnewsdailyreport ...
+[15:17:34]     +0 new articles
+[15:17:36]   [FAKE] empirenews ...
+[15:17:41]     +0 new articles
+[15:17:43]   [FAKE] thedailymash ...
+[15:17:51]     +2 new articles
+[15:17:52]   [FAKE] newsthump ...
+[15:17:56]     +2 new articles
+[15:17:58]   [FAKE] thespoof ...
+[15:18:00]     +0 new articles
+[15:18:01] RSS done: 41 new articles
+
+[15:18:01] =======================================================
+[15:18:01] STEP: Wayback Machine — 1 year backfill
+[15:18:01]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[15:18:01]   This runs ONCE. Use --skip-wayback on future runs.
+[15:18:01] =======================================================
+[15:18:01] 
+  [REAL] wb_reuters_world
+[15:18:22]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[15:18:24] 
+  [REAL] wb_reuters_tech
+[15:18:44]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[15:18:46] 
+  [REAL] wb_reuters_health
+[15:18:56]     0 snapshots found — fetching...
+[15:18:56]     Done: +0 articles from wb_reuters_health
+[15:18:58] 
+  [REAL] wb_bbc_world
+[15:19:12]     13 snapshots found — fetching...
+[15:19:44]     [10/13] 0 articles so far
+[15:20:23]     Done: +16 articles from wb_bbc_world
+[15:20:25] 
+  [REAL] wb_bbc_health
+[15:20:36]     9 snapshots found — fetching...
+[15:21:15]     Done: +358 articles from wb_bbc_health
+[15:21:17] 
+  [REAL] wb_guardian_world
+[15:21:26]     CDX error: Expecting value: line 1 column 1 (char 0)
+[15:21:28] 
+  [REAL] wb_guardian_tech
+[15:21:30]     CDX error: Expecting value: line 1 column 1 (char 0)
+[15:21:32] 
+  [REAL] wb_hindu
+[15:22:02]     0 snapshots found — fetching...
+[15:22:02]     Done: +0 articles from wb_hindu
+[15:22:04] 
+  [REAL] wb_ndtv
+[15:22:25]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[15:22:27] 
+  [REAL] wb_npr
+[15:22:41]     13 snapshots found — fetching...
+[15:23:06]     [10/13] 0 articles so far
+[15:23:15]     Done: +0 articles from wb_npr
+[15:23:17] 
+  [REAL] wb_aljazeera
+[15:23:38]     13 snapshots found — fetching...
+[15:24:13]     [10/13] 250 articles so far
+[15:24:24]     Done: +302 articles from wb_aljazeera
+[15:24:26] 
+  [FAKE] wb_theonion
+[15:24:28]     CDX error: Expecting value: line 1 column 1 (char 0)
+[15:24:30] 
+  [FAKE] wb_babylonbee
+[15:24:46]     12 snapshots found — fetching...
+[15:25:16]     [10/12] 94 articles so far
+[15:25:23]     Done: +99 articles from wb_babylonbee
+[15:25:25] 
+  [FAKE] wb_waterford
+[15:25:37]     4 snapshots found — fetching...
+[15:25:59]     Done: +0 articles from wb_waterford
+[15:26:01] 
+  [FAKE] wb_thedailymash
+[15:26:10]     6 snapshots found — fetching...
+[15:26:38]     Done: +0 articles from wb_thedailymash
+[15:26:40] 
+  [FAKE] wb_newsthump
+[15:27:01]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[15:27:03] 
+Wayback done: 775 new articles
+
+[15:27:03] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[15:27:03] NewsData: no key — skipping (free key at newsdata.io)
+
+[15:27:03] -------------------------------------------------------
+[15:27:03] Kaggle:1,000  RSS:41  Wayback:775  NewsAPI:0  NewsData:0
+[15:27:03] Total new this run: 1,816
+[15:27:03] Exported 6,662 rows to news_dataset\news_articles.csv
+[15:27:03] Done. Run step2_preprocess.py next.
+[16:49:40] Saved [FAKE] � NASA Confirms Moon Made Entirely of Compressed Cheese, Scien
+[16:50:21] Saved [FAKE] � Bill Gates Microchips Found in Common Table Salt, Whistleblo
+[10:01:32] =======================================================
+[10:01:32] FAKE NEWS DATA COLLECTOR
+[10:01:32] Collecting past 365 days of news
+[10:01:32] Window: 2025-05-06 to 2026-05-06
+[10:01:32] Mode: Kaggle + RSS + Wayback (full 1-year backfill)
+[10:01:32] NOTE: Wayback takes 30-60 mins. Run with --skip-wayback on future runs.
+[10:01:32] =======================================================
+[10:01:32] =======================================================
+[10:01:32] STEP: Kaggle Fake & Real News Dataset
+[10:01:32]   Loading up to 500 real + 500 fake articles
+[10:01:32] =======================================================
+[10:01:40]   [REAL] kaggle_real: +500 articles  (skipped 0 empty rows)
+[10:01:49]   [FAKE] kaggle_fake: +500 articles  (skipped 0 empty rows)
+[10:01:49]   Kaggle total: 1000 new articles
+
+[10:01:49] =======================================================
+[10:01:49] STEP: Live RSS feeds
+[10:01:49] =======================================================
+[10:01:49]   [REAL] reuters_world ...
+[10:01:49]     +0 new articles
+[10:01:51]   [REAL] reuters_tech ...
+[10:01:51]     +0 new articles
+[10:01:52]   [REAL] reuters_science ...
+[10:01:52]     +0 new articles
+[10:01:54]   [REAL] reuters_health ...
+[10:01:54]     +0 new articles
+[10:01:56]   [REAL] reuters_politics ...
+[10:01:56]     +0 new articles
+[10:01:57]   [REAL] bbc_world ...
+[10:02:00]     +18 new articles
+[10:02:01]   [REAL] bbc_tech ...
+[10:02:02]     +4 new articles
+[10:02:03]   [REAL] bbc_health ...
+[10:02:04]     +4 new articles
+[10:02:05]   [REAL] bbc_science ...
+[10:02:06]     +1 new articles
+[10:02:07]   [REAL] guardian_world ...
+[10:02:08]     +28 new articles
+[10:02:10]   [REAL] guardian_tech ...
+[10:02:10]     +2 new articles
+[10:02:12]   [REAL] guardian_science ...
+[10:02:12]     +4 new articles
+[10:02:14]   [REAL] guardian_politics ...
+[10:02:14]     +7 new articles
+[10:02:16]   [REAL] hindu_national ...
+[10:02:17]     +59 new articles
+[10:02:18]   [REAL] hindu_science ...
+[10:02:19]     +3 new articles
+[10:02:20]   [REAL] hindu_international ...
+[10:02:20]     +19 new articles
+[10:02:22]   [REAL] ie_india ...
+[10:02:25]     +200 new articles
+[10:02:27]   [REAL] ndtv_top ...
+[10:02:29]     +20 new articles
+[10:02:30]   [REAL] livemint ...
+[10:02:31]     +35 new articles
+[10:02:32]   [REAL] toi_top ...
+[10:02:33]     +43 new articles
+[10:02:34]   [REAL] npr_news ...
+[10:02:35]     +10 new articles
+[10:02:36]   [REAL] pbs_world ...
+[10:02:37]     +11 new articles
+[10:02:39]   [REAL] nasa ...
+[10:02:40]     +10 new articles
+[10:02:41]   [REAL] who ...
+[10:02:41]     +0 new articles
+[10:02:43]   [REAL] ap_topnews ...
+[10:02:43]     +0 new articles
+[10:02:44]   [REAL] aljazeera ...
+[10:02:45]     +25 new articles
+[10:02:47]   [REAL] abc_news ...
+[10:02:48]     +16 new articles
+[10:02:50]   [REAL] cbs_news ...
+[10:02:51]     +29 new articles
+[10:02:52]   [REAL] science_daily ...
+[10:02:54]     +12 new articles
+[10:02:55]   [FAKE] theonion ...
+[10:02:56]     +9 new articles
+[10:02:57]   [FAKE] babylonbee ...
+[10:02:57]     +0 new articles
+[10:02:59]   [FAKE] waterfordwhispers ...
+[10:03:00]     +0 new articles
+[10:03:01]   [FAKE] nationalreport ...
+[10:03:01]     +0 new articles
+[10:03:03]   [FAKE] worldnewsdailyreport ...
+[10:03:04]     +0 new articles
+[10:03:05]   [FAKE] empirenews ...
+[10:03:09]     +0 new articles
+[10:03:11]   [FAKE] thedailymash ...
+[10:03:12]     +4 new articles
+[10:03:14]   [FAKE] newsthump ...
+[10:03:14]     +0 new articles
+[10:03:16]   [FAKE] thespoof ...
+[10:03:17]     +0 new articles
+[10:03:18] RSS done: 573 new articles
+
+[10:03:18] =======================================================
+[10:03:18] STEP: Wayback Machine — 1 year backfill
+[10:03:18]   Fetching ~1 snapshot per week per feed going back 52 weeks
+[10:03:18]   This runs ONCE. Use --skip-wayback on future runs.
+[10:03:18] =======================================================
+[10:03:18] 
+  [REAL] wb_reuters_world
+[10:03:33]     0 snapshots found — fetching...
+[10:03:33]     Done: +0 articles from wb_reuters_world
+[10:03:35] 
+  [REAL] wb_reuters_tech
+[10:03:55]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:03:57] 
+  [REAL] wb_reuters_health
+[10:04:13]     0 snapshots found — fetching...
+[10:04:13]     Done: +0 articles from wb_reuters_health
+[10:04:15] 
+  [REAL] wb_bbc_world
+[10:04:21]     13 snapshots found — fetching...
+[10:07:17]     [10/13] 0 articles so far
+[10:07:30]     Done: +0 articles from wb_bbc_world
+[10:07:32] 
+  [REAL] wb_bbc_health
+[10:07:44]     9 snapshots found — fetching...
+[10:08:24]     Done: +0 articles from wb_bbc_health
+[10:08:26] 
+  [REAL] wb_guardian_world
+[10:08:28]     CDX error: Expecting value: line 1 column 1 (char 0)
+[10:08:30] 
+  [REAL] wb_guardian_tech
+[10:08:37]     CDX error: Expecting value: line 1 column 1 (char 0)
+[10:08:39] 
+  [REAL] wb_hindu
+[10:08:51]     0 snapshots found — fetching...
+[10:08:51]     Done: +0 articles from wb_hindu
+[10:08:53] 
+  [REAL] wb_ndtv
+[10:09:07]     9 snapshots found — fetching...
+[10:09:35]     Done: +20 articles from wb_ndtv
+[10:09:37] 
+  [REAL] wb_npr
+[10:09:57]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:09:59] 
+  [REAL] wb_aljazeera
+[10:10:09]     13 snapshots found — fetching...
+[10:10:42]     [10/13] 0 articles so far
+[10:10:51]     Done: +0 articles from wb_aljazeera
+[10:10:53] 
+  [FAKE] wb_theonion
+[10:10:56]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fwww.theonion.com%2Frss&output=json&fl=timestamp%2Coriginal&from=20250506&to=20260506&limit=60&collapse=timestamp%3A6 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000256E5852F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[10:10:58] 
+  [FAKE] wb_babylonbee
+[10:11:01]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Max retries exceeded with url: /cdx/search/cdx?url=https%3A%2F%2Fbabylonbee.com%2Ffeed&output=json&fl=timestamp%2Coriginal&from=20250506&to=20260506&limit=60&collapse=timestamp%3A6 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000256E58AB1D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[10:11:03] 
+  [FAKE] wb_waterford
+[10:11:24]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:11:26] 
+  [FAKE] wb_thedailymash
+[10:11:47]     CDX error: HTTPConnectionPool(host='web.archive.org', port=80): Read timed out. (read timeout=20)
+[10:11:49] 
+  [FAKE] wb_newsthump
+[10:12:07]     4 snapshots found — fetching...
+[10:12:56]     Done: +0 articles from wb_newsthump
+[10:12:58] 
+Wayback done: 20 new articles
+
+[10:12:58] NewsAPI: no key — skipping (free key at newsapi.org)
+
+[10:12:58] NewsData: no key — skipping (free key at newsdata.io)
+
+[10:12:58] -------------------------------------------------------
+[10:12:58] Kaggle:1,000  RSS:573  Wayback:20  NewsAPI:0  NewsData:0
+[10:12:58] Total new this run: 1,593
+[10:12:59] Exported 8,257 rows to news_dataset\news_articles.csv
+[10:12:59] Done. Run step2_preprocess.py next.
+[11:08:46] Saved [FAKE] � SHOCKING: Scientists ADMIT 5G towers are making people sick 

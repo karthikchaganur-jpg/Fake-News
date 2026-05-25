@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,cv_f1_mean,cv_f1_std,tp,tn,fp,fn
+Logistic Regression,0.9455,1.0,0.7068,0.8282,0.7914,0.0391,217,1345,0,90
+Naive Bayes,0.9473,0.9472,0.759,0.8427,0.833,0.0368,233,1332,13,74
+SVM (Linear),0.9655,0.9596,0.8502,0.9016,0.8852,0.0237,261,1334,11,46

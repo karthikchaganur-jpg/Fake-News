@@ -1,0 +1,169 @@
+
+=======================================================
+  FAKE NEWS DETECTOR — MODEL TRAINING REPORT
+  Generated: 2026-05-06 11:06:38
+=======================================================
+
+Loaded 8,257 articles from news_dataset\preprocessed.csv
+Class distribution — Real: 6,722  Fake: 1,535
+Class balance      — 18.6% fake
+
+Train size: 6,605   Test size: 1,652
+(80% train / 20% test, stratified by label)
+
+TF-IDF Configuration:
+  max_features = 10,000
+  ngram_range  = (1, 2)  [unigrams + bigrams]
+  sublinear_tf = True    [log normalization]
+
+Vocabulary size: 10,000 features
+Vectorizer saved → news_dataset\models/tfidf_vectorizer.pkl
+
+  MODEL: Logistic Regression
+
+  Accuracy  : 0.9455  (94.55%)
+  Precision : 1.0000
+  Recall    : 0.7068
+  F1-Score  : 0.8282
+
+  5-Fold CV F1: 0.7914 ± 0.0391
+
+  Confusion Matrix:
+               Predicted Real  Predicted Fake
+  Actual Real         1,345              0
+  Actual Fake            90            217
+
+  True Positives  (TP): 217  — fake correctly caught
+  True Negatives  (TN): 1,345  — real correctly passed
+  False Positives (FP): 0  — real wrongly flagged
+  False Negatives (FN): 90  — fake missed
+
+  Full Classification Report:
+              precision    recall  f1-score   support
+
+    Real (0)       0.94      1.00      0.97      1345
+    Fake (1)       1.00      0.71      0.83       307
+
+    accuracy                           0.95      1652
+   macro avg       0.97      0.85      0.90      1652
+weighted avg       0.95      0.95      0.94      1652
+
+  Model saved → news_dataset\models\model_logistic_regression.pkl
+  MODEL: Naive Bayes
+
+  Accuracy  : 0.9473  (94.73%)
+  Precision : 0.9472
+  Recall    : 0.7590
+  F1-Score  : 0.8427
+
+  5-Fold CV F1: 0.8330 ± 0.0368
+
+  Confusion Matrix:
+               Predicted Real  Predicted Fake
+  Actual Real         1,332             13
+  Actual Fake            74            233
+
+  True Positives  (TP): 233  — fake correctly caught
+  True Negatives  (TN): 1,332  — real correctly passed
+  False Positives (FP): 13  — real wrongly flagged
+  False Negatives (FN): 74  — fake missed
+
+  Full Classification Report:
+              precision    recall  f1-score   support
+
+    Real (0)       0.95      0.99      0.97      1345
+    Fake (1)       0.95      0.76      0.84       307
+
+    accuracy                           0.95      1652
+   macro avg       0.95      0.87      0.91      1652
+weighted avg       0.95      0.95      0.95      1652
+
+  Model saved → news_dataset\models\model_naive_bayes.pkl
+  MODEL: SVM (Linear)
+
+  Accuracy  : 0.9655  (96.55%)
+  Precision : 0.9596
+  Recall    : 0.8502
+  F1-Score  : 0.9016
+
+  5-Fold CV F1: 0.8852 ± 0.0237
+
+  Confusion Matrix:
+               Predicted Real  Predicted Fake
+  Actual Real         1,334             11
+  Actual Fake            46            261
+
+  True Positives  (TP): 261  — fake correctly caught
+  True Negatives  (TN): 1,334  — real correctly passed
+  False Positives (FP): 11  — real wrongly flagged
+  False Negatives (FN): 46  — fake missed
+
+  Full Classification Report:
+              precision    recall  f1-score   support
+
+    Real (0)       0.97      0.99      0.98      1345
+    Fake (1)       0.96      0.85      0.90       307
+
+    accuracy                           0.97      1652
+   macro avg       0.96      0.92      0.94      1652
+weighted avg       0.97      0.97      0.96      1652
+
+  Model saved → news_dataset\models\model_svm_linear.pkl
+  MODEL COMPARISON TABLE
+  Model                      Accuracy  Precision   Recall       F1
+  Logistic Regression          0.9455     1.0000   0.7068   0.8282
+  Naive Bayes                  0.9473     0.9472   0.7590   0.8427
+  SVM (Linear)                 0.9655     0.9596   0.8502   0.9016 ← BEST
+
+  Best model : SVM (Linear)  (F1=0.9016)
+  Saved as   : news_dataset\best_model.pkl
+  Vectorizer : news_dataset/tfidf_vectorizer.pkl
+
+  TOP 20 FEATURES → FAKE NEWS (high LR weight)
+  image                          weight=+4.8966
+  onion                          weight=+4.4026
+  appea onion                    weight=+4.1291
+  featu image                    weight=+3.3286
+  via                            weight=+3.3171
+  featu                          weight=+3.2814
+  image via                      weight=+3.1965
+  getty                          weight=+3.0504
+  getty image                    weight=+3.0289
+  appea                          weight=+2.9642
+  trump                          weight=+2.7865
+  post                           weight=+2.7605
+  donald                         weight=+2.5117
+  american                       weight=+2.5068
+  actually                       weight=+2.5007
+  even                           weight=+2.4780
+  donald trump                   weight=+2.3891
+  man                            weight=+2.3714
+  go                             weight=+2.1967
+  announ                         weight=+2.1937
+
+  TOP 20 FEATURES → REAL NEWS (low LR weight)
+  president donald               weight=-2.3111
+  india                          weight=-2.0157
+  continue rea                   weight=-2.0056
+  iran                           weight=-1.8424
+  court                          weight=-1.7754
+  rea                            weight=-1.7042
+  continue                       weight=-1.6389
+  china                          weight=-1.2772
+  minister                       weight=-1.2057
+  amid                           weight=-1.1943
+  bengal                         weight=-1.1806
+  bjp                            weight=-1.1364
+  israel                         weight=-1.1042
+  ukraine                        weight=-1.0935
+  delhi                          weight=-1.0886
+  risk                           weight=-1.0824
+  representative                 weight=-1.0788
+  strike                         weight=-1.0787
+  washington                     weight=-1.0681
+  nhs                            weight=-0.9384
+
+  Training log saved → news_dataset\training_log.csv
+  Full report saved  → news_dataset\evaluation_report.txt
+
+Run step4_predict.py to classify new articles.
